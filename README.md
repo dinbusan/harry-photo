@@ -1,2 +1,2 @@
 # harry-photo-final
- Website created using HTML, CSS, Bootstrap, and Jquery
+ Website for an imaginary business. Created using HTML, CSS, Bootstrap, and Jquery
