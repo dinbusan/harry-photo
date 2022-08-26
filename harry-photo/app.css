@@ -27,15 +27,15 @@ body {
 }
 
 #mainNavbar .nav-link {
-    color: white;
+    color: #dcdbdb;
 }
 
 #mainNavbar .nav-link:hover {
-    color: #20265B;
+    color: #ffffff;
 }
 
 #mainNavbar .navbar-brand {
-    color: white;
+    color: #ffffff;
 }
 
 #headingGroup span {
